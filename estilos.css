@@ -66,5 +66,8 @@ background-size: cover;
 }
 .jumbotronpod p{
     font-size: 24px;
-    color: #F9F6E4;
+    color: #F28775;
+    width: 50%;
+    margin-top: 20px;
+    margin-left: 20px;
 }
